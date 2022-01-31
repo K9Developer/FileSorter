@@ -1,0 +1,15 @@
+{
+  "videos": ["mp3", "mp4", "mov", "wmv", "avi"],
+  "documents": ["docx", "doc", "dot", "dotm", "dotx", "pdf", "rtf", "xml", "csv", "xls", "xlsx", "xlsm", "pptx", "pptm", "ppt", "csv", "msg"],
+  "images": ["jpg", "png", "jpeg", "gif", "tiff", "svg"],
+  "shortcuts": ["lnk"],
+  "text files": ["json", "txt", "db", "dat", "ipynb", "log"],
+  "compressed": ["zip", "gz"],
+  "web": ["html", "htm", "url"],
+  "python": ["py"],
+  "fonts": ["ttf", "otf"],
+  "network": ["pcapng", "pcap"],
+  "system": ["bat"],
+  "webex": ["ucf"],
+  "executables": ["exe", "apk"]
+}
